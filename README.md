@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonatan</h1>
-<h3 align="center">A web development student</h3>
+<h3 align="center"> web development student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanrocha2&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanrocha2" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Linux**
 
-- 📫 How to reach me **jonatanivanhoe@gmail.com**
+- 📫 How to reach me? **jonatanivanhoe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
