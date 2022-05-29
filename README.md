@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, Linux**
 
-- 📫 How to reach me? **about.me/jonatanrocha**
+- 📫 How to reach me? [Jonatan Rocha](https://about.me/jonatanrocha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
