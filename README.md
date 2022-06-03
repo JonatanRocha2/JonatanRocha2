@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanrocha2&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanrocha2" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, Linux**
+- 🌱 I’m currently learning **Java, JavaScript, Node.js, Linux**
 
 - 📫 How to reach me? [Click Here](https://about.me/jonatanrocha)
 
