@@ -14,7 +14,7 @@
 </a>
 
 
-- 🌱 I’m currently learning infra as code and web development
+- 🌱 I’m currently learning infra as code and web development 🤓
 
 
 <a href="">
@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </a>
 
-- I test and analysis software using
+- I test and analysis software using 💻
 
 
 <a href="">
@@ -89,7 +89,7 @@
 </a>
 
 
-- In free time
+- In free time I like to play videogames and listen musics 🎧 🎮
 
 
 <a href="">
