@@ -41,11 +41,15 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-- I test my codes using
+- I test and analysis software using
 
 
 <a href="">
 <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
 </a>
 
 
@@ -59,3 +63,9 @@
 <a href="">
 <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"/>
 </a>
+
+<a href="">
+<img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>
+</a>
+
+
