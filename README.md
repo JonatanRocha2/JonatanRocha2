@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/JonatanRocha25"/>
 </a>
 
-</br>
+
 - 🌱 I’m currently learning infra as code and web development 🤓
 
 
