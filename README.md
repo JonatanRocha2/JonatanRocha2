@@ -10,9 +10,4 @@
 <a href="https://www.linkedin.com/in/jonatanrocha25/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jonatanrocha25/"/>
 </a>
-<a href="https://www.linkedin.com/in/jonatanrocha25/" alt="Linkedin">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&link=https://www.linkedin.com/in/jonatanrocha25/"/>
-</a>
-<a href="https://www.linkedin.com/in/jonatanrocha25/" alt="Linkedin">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.linkedin.com/in/jonatanrocha25/"/>
-</a>
+
