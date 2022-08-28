@@ -16,6 +16,7 @@
 
 - 🌱 I’m currently learning 
 
+
 <a href="">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&"/>
 </a>
@@ -36,6 +37,13 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </a>
 
-<!-- <a href="https://twitter.com/JonatanRocha25">
-<img src=""/>
-</a> -->
+<a href="">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+- I test my codes using
+
+<a href="">
+<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
+</a>
+
