@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/JonatanRocha25"/>
 </a>
 
+<a href="https://hub.docker.com/u/jonatanrocha2" alt="Docker">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=FFFFFF&link=https://hub.docker.com/u/jonatanrocha2"/>
+</a>
+
 
 - 🌱 I’m currently learning infra as code and web development 🤓
 
