@@ -38,10 +38,6 @@
 </a>
 
 <a href="">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<a href="">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 
@@ -54,30 +50,13 @@
 </a>
 
 <a href="">
-<img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-</a>
-
-<a href="">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </a>
 
 - I test and analysis software using 💻
 
-
-<a href="">
-<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
-</a>
-
 <a href="">
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
 </a>
 
 <a href="">
@@ -89,7 +68,7 @@
 </a>
 
 
-- In free time I like to play videogames and listen musics 🎧 🎮
+- In free time... 🎧 🎮
 
 
 <a href="">
