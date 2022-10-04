@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </a>
 
-- I test and analysis software using 💻
+- I test and analyze software with 💻
 
 <a href="">
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
