@@ -1,86 +1,33 @@
-<h1 align="center">Hi 👋, I'm Jonatan</h1>
-<h3 align="center"> devops student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanrocha2&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanrocha2" /> </p>
-
-- 📫 Fala comigo! 
-
-<a href="https://www.linkedin.com/in/jonatanrocha25/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jonatanrocha25/"/>
-</a>
-
-<a href="https://twitter.com/JonatanRocha25" alt="Twitter">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/JonatanRocha25"/>
-</a>
+# OLÁ MUNDO! 👋
 
 
-- 🌱 Odeio coisas repetitivas, por isso amo automações e infra como código. Algumas "techs" que mais curto são: 🤓
+## 🚀 Resumindo sobre mim
+Sou apaixonado por automações, infra como código, sistemas open-source e cultura devops.
 
 
-<a href="">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-</a>
-
-- I test and analyze software with 💻
-
-<a href="">
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-</a>
+## 🔗 Como me achar? 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatanrocha25/)
 
 
-- In free time... 🎧 🎮
+## 🛠 Ferramentas que gosto de usar
 
+#### Sistema Operacional:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
+#### Liguagem de Programação:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="">
-<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"/>
-</a>
+#### Ferramenta de automação:
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+## Meus objetivos em 2023!
+👩‍💻 Automatizar tudo!
 
-<a href="">
-<img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>
-</a>
+🧠 Obter uma certificação Linux.
 
+👯‍♀️ Ser um bom companheiro de time.
+
+🤔 Fazer boas perguntas.
+
+💬 Aprender a ensinar!
 
