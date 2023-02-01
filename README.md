@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanrocha2&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanrocha2" /> </p>
 
-- 📫 How to reach me? 
+- 📫 Fala comigo! 
 
 <a href="https://www.linkedin.com/in/jonatanrocha25/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jonatanrocha25/"/>
@@ -14,7 +14,7 @@
 </a>
 
 
-- 🌱 I’m currently learning infra as code and web development 🤓
+- 🌱 Odeio coisas repetitivas, por isso amo automações e infra como código. Algumas "techs" que mais curto são: 🤓
 
 
 <a href="">
