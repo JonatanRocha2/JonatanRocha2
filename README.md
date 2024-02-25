@@ -18,12 +18,3 @@ Sou apaixonado por one piece, games, músicas e the big bang theory.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-## Meus objetivos em 2023!
-
-👩‍💻 Automatizar tudo!
-
-🧠 Ser aprovado no exame LPIC-1.
-
-💬 Aprender a ensinar!
-
